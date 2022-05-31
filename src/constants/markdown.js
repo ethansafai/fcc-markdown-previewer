@@ -4,7 +4,7 @@ Here is some \`<p>Inline code</p>\`!
 \`\`\`
 // this is a block of code:
 
-const getSelf = () => ({ personality: "awesome", IQ: 1000 });
+const getSelf = () => ({ personality: "awesome", style: "glamorous" });
 \`\`\`
 - Here is a list 
   - You can indent it!
